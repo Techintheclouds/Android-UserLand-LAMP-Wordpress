@@ -1,4 +1,4 @@
-# Android-UserLand-LAMP-Wordpress
+# Android_UserLand_LAMP_Wordpress
 Scripts to set up a LAMP stack plus WordPress on Android with Ubuntu using the [UserLand](https://github.com/CypherpunkArmory/UserLAnd) APP no root required.
 
 1. Start by installing UserLand from Google Play.
